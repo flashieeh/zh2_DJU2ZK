@@ -1,0 +1,26 @@
+﻿html{
+    background-color: black;
+}
+body {
+    color: lawngreen;
+    font-family: monospace;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+.inputs{
+    margin-bottom: 4%;
+    margin-top:2%;
+    text-align: center;
+}
+#ide{
+    font-size: large;
+    font-weight: bold;
+}
+#cim{
+    font-size: 70;
+    text-align: center;
+    margin-bottom: 2%;
+    color: fuchsia;
+}
+

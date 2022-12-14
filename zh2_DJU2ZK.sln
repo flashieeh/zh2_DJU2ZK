@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh2_DJU2ZK", "zh2_DJU2ZK\zh2_DJU2ZK.csproj", "{583E3E37-5A43-497F-A2D7-3B333660E36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh2_webApp", "zh2_webApp\zh2_webApp.csproj", "{02A8C78B-B861-430C-B445-939C2E56DA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583E3E37-5A43-497F-A2D7-3B333660E36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583E3E37-5A43-497F-A2D7-3B333660E36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583E3E37-5A43-497F-A2D7-3B333660E36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583E3E37-5A43-497F-A2D7-3B333660E36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A8C78B-B861-430C-B445-939C2E56DA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A8C78B-B861-430C-B445-939C2E56DA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A8C78B-B861-430C-B445-939C2E56DA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A8C78B-B861-430C-B445-939C2E56DA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5026922C-0793-44F3-9534-97B4EFFC83D7}
+	EndGlobalSection
+EndGlobal
